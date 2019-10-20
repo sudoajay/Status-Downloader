@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_WhatsAppStatus"
+            android:icon="@drawable/whatsapp_icon"
+            android:title="@string/nav_Whatsapp_Text" />
+        <item
+            android:id="@+id/nav_InstagramStatus"
+            android:icon="@drawable/instagram_icon"
+            android:title="@string/nav_Instagram_Text" />
+
+        <item
+            android:id="@+id/nav_TikTokStatus"
+            android:icon="@drawable/tiktok_icon"
+            android:title="@string/nav_TikTokStatus_Text" />
+
+        <item
+            android:id="@+id/nav_ComingSoon"
+            android:icon="@drawable/comingsoon_icon"
+            android:title="@string/nav_Coming_Soon_Text" />
+
+        <item
+            android:id="@+id/nav_Share"
+            android:icon="@drawable/share_icon"
+            android:title="@string/nav_Share_Text" />
+        <item
+            android:id="@+id/nav_Rate_Us"
+            android:icon="@drawable/rate_us_icon"
+            android:title="@string/nav_Rate_Us_Text" />
+
+
+    </group>
+
+    <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_Send_Feedback"
+            android:icon="@drawable/sendfeedback_icon"
+            android:title="@string/nav_Send_Feedback_Text" />
+        <item
+            android:id="@+id/nav_Help"
+            android:icon="@drawable/help_icon"
+            android:title="@string/nav_Help_Text" />
+
+    </group>
+</menu>

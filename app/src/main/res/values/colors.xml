@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Toast Color Background and text Color-->
+    <color name="toastBackgroundColor">@android:color/black</color>
+    <color name="toastTextColor">#D6D1D1</color>
+
+    <!--Navigation Drawer-->
+    <color name="selected_drawer_item_color">#4D8EEB</color>
+    <color name="drawer_background_color">#ff303030</color>
+    <color name="drawer_selected_tab">#85454343</color>
+    <color name="separateColor">#504E4E</color>
+
+</resources>

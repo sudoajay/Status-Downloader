@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Status Download</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--        Navigation drawer Heading -->
+    <string name="nav_Whatsapp_Text">Whatsapp</string>
+    <string name="nav_Instagram_Text">Instagram</string>
+    <string name="nav_TikTokStatus_Text">Tik Tok</string>
+    <string name="nav_Coming_Soon_Text">Coming Soon</string>
+    <string name="nav_Share_Text">Share</string>
+    <string name="nav_Rate_Us_Text">Rate Us</string>
+    <string name="nav_Help_Text">Help</string>
+    <string name="nav_Send_Feedback_Text">Send Feedback</string>
+
+
+    <!--share app-->
+    <string name="share_info">Hey, check This App which helps you to Delete Duplicate and Unnecessary Data from the phone -</string>
+
+
+</resources>
